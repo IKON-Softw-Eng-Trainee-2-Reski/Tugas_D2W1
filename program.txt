@@ -1,3 +1,13 @@
-ini adalah template dari program yang akan dikembangkan
+ini adalah template dari Aplikasi yang akan dikembangkan
 A. Fitur Register
+    1. Register dengan Google
+    2. Register dengan Facebook
 B. Fitur Login
+    1. Login dengan Google
+    2. Login dengan Facebook
+C. Fitur Pemesanan 
+D. Fitur Cart
+E. Fitur Pembayaran
+    1. Add Integrasi Midtrans 
+F. Another Fitur will release in January
+G. Another Fitur will release soon
