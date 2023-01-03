@@ -1,6 +1,10 @@
 ini adalah template dari program yang akan dikembangkan
 A. Fitur Register
+    1. Register dengan Google
+    2. Register dengan Facebook
 B. Fitur Login
+    1. Login dengan Google
+    2. Login dengan Facebook
 C. Fitur Pemesanan 
 D. Fitur Cart
 E. Fitur Pembayaran
