@@ -1,4 +1,4 @@
-ini adalah template dari program yang akan dikembangkan
+ini adalah template dari Aplikasi yang akan dikembangkan
 A. Fitur Register
 B. Fitur Login
 C. Fitur Pemesanan 
