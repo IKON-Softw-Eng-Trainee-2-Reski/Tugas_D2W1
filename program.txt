@@ -1,3 +1,5 @@
 ini adalah template dari program yang akan dikembangkan
 A. Fitur Register
 B. Fitur Login
+C. Fitur Pemesanan 
+D. Fitur Cart
