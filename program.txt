@@ -6,3 +6,4 @@ D. Fitur Cart
 E. Fitur Pembayaran
     1. Add Integrasi Midtrans 
 F. Another Fitur will release in January
+G. Another Release
