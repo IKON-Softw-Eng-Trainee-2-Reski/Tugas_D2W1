@@ -1,0 +1,7 @@
+#echo "My username:"
+#$export PS1='\u@ \t \$'
+#echo "With host:"
+#uname -a >> about_this_laptop.txt
+My username: tegarimansyah
+With host: 
+Linux MPIN00055 5.10.16.3-microsoft-standard-WSL2 #1 SMP Fri Apr 2 22:23:49 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
