@@ -1,0 +1,11 @@
+#!/bin/sh
+DIRNAME="$1 at $(date)"
+mkdir "$DIRNAME"
+mkdir "$DIRNAME/personal"
+echo "https://www.facebook.com/$2" >> "$DIRNAME/personal/facebook.txt"
+mkdir "$DIRNAME/professional"
+echo "https://www.linkedin.com/in/$3" >> "$DIRNAME/professional/linkedin.txt"
+mkdir "$DIRNAME/my_friends"
+mkdir "$DIRNAME/my_system_info"
+uname -a >> "$DIRNAME/my_system_info/about_this_laptop.txt"
+ping -c 3 google.com >> "$DIRNAME/my_system_info/internet_connection.txt"
